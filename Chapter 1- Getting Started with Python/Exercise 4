@@ -1,0 +1,5 @@
+k = "Kurt "
+t = "Tristan "
+l = "Lasam "
+
+print (k + t + l)
