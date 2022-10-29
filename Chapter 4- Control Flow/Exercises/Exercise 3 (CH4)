@@ -1,6 +1,0 @@
-al_color = 'Cyan'
-
-if al_color == 'White':
-    print("You just earned 5 points!")
-else:
-    print("You just earned 10 points!")
