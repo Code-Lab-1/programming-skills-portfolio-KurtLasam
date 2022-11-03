@@ -1,0 +1,11 @@
+info_person = {
+    'Food': 'Chicken',
+    'Brand': 'Nike',
+    'Letter': 'K',
+    'Continent': 'Asia',
+    }
+
+print(info_person['Food'])
+print(info_person['Brand'])
+print(info_person['Letter'])
+print(info_person['Continent'])
