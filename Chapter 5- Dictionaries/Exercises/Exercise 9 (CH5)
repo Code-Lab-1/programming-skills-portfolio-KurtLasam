@@ -1,0 +1,9 @@
+glossary = {
+    'Python' : 'A tool for commands' ,
+    'Google Collab' : 'A tool for coding',
+    
+    
+    }
+
+for word, definition in glossary.items():
+    print(f"\n{word.title()}: {definition}")
