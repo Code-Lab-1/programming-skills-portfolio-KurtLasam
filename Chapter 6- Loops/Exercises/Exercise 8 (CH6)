@@ -1,0 +1,15 @@
+prompt = "Driver liscense "
+prompt += "\nEnter 'DONE' When you are done. "
+
+while True:
+    age = input(prompt)
+    if age == 'DONE':
+        break
+    age = int(age)
+
+    if age < 18:
+        print("  You must be 18 to take.")
+    elif age < 25:
+        print("  You can take the test ")
+    else:
+        print("  You can take the test")
