@@ -1,0 +1,14 @@
+age = 1
+
+if age < 2:
+    print("Babies are not allowed ")
+elif age < 4:
+    print("Must be with parent")
+elif age < 13:
+    print("Must be with parent")
+elif age < 20:
+    print("Allowed")
+elif age < 65:
+    print("Allowed")
+else:
+    print("Allowed")
