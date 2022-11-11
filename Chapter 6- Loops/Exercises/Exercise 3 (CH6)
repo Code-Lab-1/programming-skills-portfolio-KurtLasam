@@ -1,0 +1,4 @@
+infi= 1 
+while infi==1: 
+ infiw= input('whats your name? ') 
+ print("Hi ,",  infiw, "Welcome to Paradise!!")

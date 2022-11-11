@@ -1,0 +1,6 @@
+K  = 'Black'
+
+if K == 'Green':
+    print("Hello , <3")
+else:
+    print("Bye , <3")

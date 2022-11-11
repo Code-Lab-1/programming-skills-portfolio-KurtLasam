@@ -1,0 +1,6 @@
+names = ['This our the best rappers of our generation ','J COLE', 'DRAKE', 'TRAVIS SCOTT']
+
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])

@@ -1,0 +1,5 @@
+msg = "J Cole is the best rapper but "
+print(msg)
+
+msg = "Drake has better beats"
+print(msg)

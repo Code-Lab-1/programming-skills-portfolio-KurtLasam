@@ -1,0 +1,5 @@
+import sys
+print("This is my Pyhton version")
+print (sys.version)
+print("This is my Version info.")
+print (sys.version_info)

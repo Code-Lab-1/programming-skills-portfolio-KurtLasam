@@ -1,0 +1,14 @@
+pet = {
+    'animal type': 'Sloth',
+    'name': 'Slowy',
+    'owner': 'Luke',
+    'weight': 100,
+    'eats': 'Grass',
+}
+pet.append(pet)
+
+
+for pet in pet:
+    print(f"\n The Details of the Pets{pet['name'].title()}:")
+    for key, value in pet.items():
+        print(f"\t{key}: {value}")

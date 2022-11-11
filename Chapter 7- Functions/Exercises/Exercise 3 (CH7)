@@ -1,0 +1,7 @@
+def make_shirt(size, message):
+    
+    print(f"\nIM UNDER THE WATER {size} t-shirt.")
+    print(f'SIR USMAN NO. 1 "{message}"')
+
+make_shirt('XXXS', 'I LOVE CODING')
+make_shirt(message="HELLO WORLD?", size='XXXL')

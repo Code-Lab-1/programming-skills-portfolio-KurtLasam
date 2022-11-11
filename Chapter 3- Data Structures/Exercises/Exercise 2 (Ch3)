@@ -1,0 +1,10 @@
+names = ['Wenzel', 'Luke', 'Domingo']
+
+msg = f"Hello, {names[0].title()}!"
+print(msg)
+
+msg = f"Wazzap, {names[1].title()}!"
+print(msg)
+
+msg = f"Hi, {names[2].title()}!"
+print(msg)

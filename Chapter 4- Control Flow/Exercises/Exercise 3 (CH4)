@@ -1,0 +1,8 @@
+al_color = 'Blue'
+
+if al_color == 'green':
+    print("You have found green")
+elif al_color == 'yellow':
+    print("You have yellow")
+else:
+    print("You have found blue")

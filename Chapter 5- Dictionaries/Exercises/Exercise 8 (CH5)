@@ -1,0 +1,10 @@
+r = {
+    'Sushi': 'Japan',
+    'Steak': 'USA',
+    '1000 ISLANDS': 'Philippines',
+    'Samurai': 'Japan',
+    'Lu Bu' : 'China',
+    }
+
+for r, country in r.items():
+    print(f"The {r.title()} is on of the best in {country.title()}.")

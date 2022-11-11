@@ -1,0 +1,8 @@
+t = "twinkle"
+l = "little"
+s = "star"
+h = "how i wonder what you are!"
+u = "up above the world the so high"
+li = "like diamond in the sky"
+
+print (t + " " + t + " " + l + " " + s + ", " + h + " " + u + " " + li + ". "+ t + " " + t + " "+ l + " " + s + ".")

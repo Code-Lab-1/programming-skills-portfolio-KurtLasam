@@ -1,0 +1,6 @@
+def display_message():
+
+    message = "I love learning python, specially with Mr. Usman"
+    print(message)
+
+display_message()

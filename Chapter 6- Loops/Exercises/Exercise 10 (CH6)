@@ -1,0 +1,9 @@
+prompt = "\n What Color of shirt do you want?"
+prompt += "\nEnter 'OKAY' when done. "
+
+while True:
+    topping = input(prompt)
+    if topping != 'OKAY':
+        print(f"  I'll add {topping} that to the order")
+    else:
+        break

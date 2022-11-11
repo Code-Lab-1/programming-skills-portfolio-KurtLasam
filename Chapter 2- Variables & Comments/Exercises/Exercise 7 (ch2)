@@ -1,0 +1,7 @@
+name = "\tLasam\n"
+
+print("Unmodified:")
+print(name)
+
+print("\nUsing lstrip():")
+print(name.lstrip())

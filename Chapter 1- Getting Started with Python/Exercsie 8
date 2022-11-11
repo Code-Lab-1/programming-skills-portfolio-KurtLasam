@@ -1,0 +1,4 @@
+from datetime import date
+
+today_now = date.today()
+print("It is :", today_now)

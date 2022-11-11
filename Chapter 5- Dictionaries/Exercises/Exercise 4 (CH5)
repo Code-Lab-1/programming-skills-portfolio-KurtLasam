@@ -1,0 +1,18 @@
+r = {
+    'Temples': 'Egypt',
+    'Texas': 'USA',
+    'Anime': 'Japan',
+    'Palawan': 'Philippines',
+    'Great Wall' : 'China',
+    }
+
+for r, country in r.items():
+    print(f"The {r.title()} is on of the best in {country.title()}.")
+
+print("\nThe following rivers are included in this data set:")
+for r in r.keys():
+    print(f"- {r.title()}")
+
+print("\nThe following countries are included in this data set:")
+for country in r.values():
+    print(f"- {country.title()}")

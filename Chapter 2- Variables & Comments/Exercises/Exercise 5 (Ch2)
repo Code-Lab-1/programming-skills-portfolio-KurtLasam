@@ -1,0 +1,4 @@
+amount = 50
+cost = 6
+
+print(str(amount/ cost) + " is the number of USB she could buy" + " " + "and the amount of pounds she will be left is " + str(amount % cost))

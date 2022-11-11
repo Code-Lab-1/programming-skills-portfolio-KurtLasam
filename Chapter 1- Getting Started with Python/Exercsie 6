@@ -1,0 +1,5 @@
+S = "Sir  "
+H = "Hello  "
+U = "Usman "
+
+print (H + S + U)

@@ -1,0 +1,5 @@
+NOP = " 648"
+NOS = " 700"
+POE = " Expo Center"
+
+print ("The following are Details of the upcoming Event " + NOP + NOS + POE)

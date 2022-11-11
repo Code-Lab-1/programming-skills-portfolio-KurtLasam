@@ -1,0 +1,4 @@
+al_color = 'White'
+
+if al_color == 'White':
+    print("You have found white!")

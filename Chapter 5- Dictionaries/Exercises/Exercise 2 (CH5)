@@ -1,0 +1,22 @@
+glossary = {
+    'string': 'A List of Commands.',
+    'comment': 'Python is Best',
+    'list': 'A collection of items in a particular order.',
+    'loop': 'You can do things with patience',
+    'dictionary': "A collection of key pairs",
+    }
+
+word = 'string'
+print(f"\n{word.title()}: {glossary[word]}")
+
+word = 'comment'
+print(f"\n{word.title()}: {glossary[word]}")
+
+word = 'list'
+print(f"\n{word.title()}: {glossary[word]}")
+
+word = 'loop'
+print(f"\n{word.title()}: {glossary[word]}")
+
+word = 'dictionary'
+print(f"\n{word.title()}: {glossary[word]}")

@@ -1,0 +1,7 @@
+def pants(size, message):
+    
+    print(f"\nHELLO WORLDS {size} PANTS")
+    print(f'crazy!!"{message}"')
+
+pants('S', 'I LOVE CODING')
+pants(message="HELLO WORLD?", size='m')

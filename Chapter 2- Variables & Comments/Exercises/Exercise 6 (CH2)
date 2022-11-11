@@ -1,0 +1,4 @@
+fav_num = 2345678
+msg = f"This is my number {fav_num}."
+
+print(msg)

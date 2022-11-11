@@ -1,0 +1,5 @@
+msg = "I love Code Labs 1."
+print(msg)
+
+msg = "With Sir Usman."
+print(msg)

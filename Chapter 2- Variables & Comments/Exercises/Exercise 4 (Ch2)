@@ -1,0 +1,4 @@
+fav_num = 69
+msg = f"The favorite number of Kurt Lasam {fav_num}."
+
+print(msg)
