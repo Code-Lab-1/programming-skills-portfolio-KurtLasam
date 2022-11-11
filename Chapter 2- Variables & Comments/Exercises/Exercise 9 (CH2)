@@ -1,0 +1,5 @@
+msg = "My favortite rapper is "
+print(msg)
+
+msg = "J. Cole"
+print(msg)
