@@ -1,7 +1,7 @@
 age = 1
 
 if age < 2:
-    print("Babies are not allowed ")
+    print("Not Allowed ")
 elif age < 4:
     print("Must be with parent")
 elif age < 13:
