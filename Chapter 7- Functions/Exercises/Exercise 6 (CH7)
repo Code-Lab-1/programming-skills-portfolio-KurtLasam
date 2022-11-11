@@ -1,0 +1,6 @@
+def display_message():
+
+    message = "Python and Google Collab are the same"
+    print(message)
+
+display_message()
