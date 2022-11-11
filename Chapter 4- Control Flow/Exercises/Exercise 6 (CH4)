@@ -1,0 +1,4 @@
+colors = 'green'
+
+if colors == 'green':
+    print("Congratulations on finding green!")
