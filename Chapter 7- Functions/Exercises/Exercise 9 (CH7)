@@ -1,0 +1,8 @@
+def describe_country(city, country='UAE'):
+    
+    msg = f"{city.title()} is in {country.title()}."
+    print(msg)
+
+describe_country('Sharjah')
+describe_country('Ajman', 'UAE')
+describe_country('Dubai')
