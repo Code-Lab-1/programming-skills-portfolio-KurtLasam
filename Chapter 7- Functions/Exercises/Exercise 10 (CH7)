@@ -1,0 +1,8 @@
+def make_shirt(size='Large ', message='Kurt is No. 1'):
+    
+    print(f"\nWELL FOR SURE {size} SHEESH.")
+    print(f'WAZZAP WORLD "{message}"')
+
+make_shirt()
+make_shirt(size='Smalll')
+make_shirt('small', 'Programmers are loopy.')

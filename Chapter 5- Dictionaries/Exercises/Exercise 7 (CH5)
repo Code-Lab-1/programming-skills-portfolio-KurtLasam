@@ -1,0 +1,11 @@
+info = {
+    'Dubai': 'Mall of Emirates',
+    'Abu Dhabi': 'Yas Mall',
+    'Sharjah': 'Waterfront',
+    'Ras Al Khaimah': 'Bath Spa University',
+    }
+
+print(info['Dubai'])
+print(info['Abu Dhabi'])
+print(info['Sharjah'])
+print(info['Ras Al Khaimah'])

@@ -1,0 +1,4 @@
+colors = 'WHITE'
+
+if colors == 'WHITE':
+    print("WHITE I GUESS")

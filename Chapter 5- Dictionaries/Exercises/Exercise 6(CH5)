@@ -1,0 +1,15 @@
+
+nop = []
+
+
+nop = {
+    'Name ': 'Rafa',
+    'Weight': '75 kg',
+    'Height': '5 foot 7',
+    'Age': 17,
+    'Religion': 'Christian',
+}
+
+
+
+print(nop)

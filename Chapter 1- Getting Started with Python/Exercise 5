@@ -1,0 +1,7 @@
+rad = int(input("Enter your desired radius : "))
+pi = 3.14
+         
+    
+c_area = pi * rad * rad
+print(f"The are of the circle is : "
+          ,c_area)

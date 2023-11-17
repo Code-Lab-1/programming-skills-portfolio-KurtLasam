@@ -1,0 +1,5 @@
+food = "Chicken "
+juice = "Orange "
+place = "Al Anood"
+
+print (food + juice + place)

@@ -1,0 +1,32 @@
+names = ['Kurt', 'Luke', 'Rafael', 'Mark', 'Jared']
+
+print("Original order:")
+print(names)
+
+print("\nAlphabetical:")
+print(sorted(names))
+
+print("\nOriginal order:")
+print(names)
+
+print("\nReverse alphabetical:")
+print(sorted(names, reverse=True))
+
+print("\nOriginal order:")
+print(names)
+
+print("\nReversed:")
+names.reverse()
+print(names)
+
+print("\nOriginal order:")
+names.reverse()
+print(names)
+
+print("\nAlphabetical")
+names.sort()
+print(names)
+
+print("\nReverse alphabetical")
+names.sort(reverse=True)
+print(names)

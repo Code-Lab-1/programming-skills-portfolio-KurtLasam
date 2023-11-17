@@ -1,0 +1,11 @@
+cheese = ['Swiss Cheese', 'American Cheese','Indian Cheese', 'Cow Cheese',"Goat Cheese"]
+finished_sandwiches = []
+
+while cheese:
+    current_sandwich = cheese.pop()
+    print(f"I'm preparing your{current_sandwich} ")
+    finished_sandwiches.append(current_sandwich)
+
+print("\n")
+for sandwich in finished_sandwiches:
+    print(f"This is {sandwich} ")

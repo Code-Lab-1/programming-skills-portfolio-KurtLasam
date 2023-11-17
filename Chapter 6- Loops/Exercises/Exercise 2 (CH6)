@@ -1,0 +1,15 @@
+prompt = "How old are you?"
+prompt += "\nEnter 'LEZGO' when you are finished. "
+
+while True:
+    age = input(prompt)
+    if age == 'LEZGO':
+        break
+    age = int(age)
+
+    if age < 10:
+        print("  You get the ticket for FREE!!")
+    elif age < 25:
+        print("  The ticket will cost 10$ ")
+    else:
+        print("  The ticket will cost 20%.")
